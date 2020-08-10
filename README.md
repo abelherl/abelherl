@@ -31,6 +31,7 @@
 
 ## What I'm Working On
 
+- Flutter crash course
 
 ## What I've Worked On
 

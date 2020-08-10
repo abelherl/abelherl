@@ -35,14 +35,8 @@
 ## What I've Worked On
 
 <a href="https://github.com/abelherl/antrian">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abelherl&repo=antrian&theme=default" height="115"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abelherl&repo=antrian&theme=default" height="130"/>
 </a>
-<a href="https://github.com/abelherl/smkc-covid">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abelherl&repo=smkc-covid&theme=default" height="115"/>
-</a>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abelherl&repo=antrian&theme=default)](https://github.com/abelherl/antrian)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abelherl&repo=smkc-covid&theme=default)](https://github.com/abelherl/smkc-covid)
 
 ## Stats
 

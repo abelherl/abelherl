@@ -31,7 +31,7 @@
 
 ## What I'm Working On
 
-- Flutter crash course
+- Memogatari, a Flutter app
 
 ## What I've Worked On
 

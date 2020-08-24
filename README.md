@@ -39,6 +39,6 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=abelherl&repo=antrian&theme=default" height="130"/>
 </a>
 
-## Stats
+## How My Stats Looks Like
 
 ![abelherl's github stats](https://github-readme-stats.vercel.app/api?username=abelherl&show_icons=true&theme=default)

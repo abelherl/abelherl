@@ -28,11 +28,3 @@
     </tr>
   </tbody>
 </table><br>
-
-## What I'm Working On
-
-- Memogatari, a Flutter app
-
-## How My Stats Looks Like
-
-![abelherl's github stats](https://github-readme-stats.vercel.app/api?username=abelherl&show_icons=true&theme=default)

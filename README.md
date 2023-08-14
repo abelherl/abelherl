@@ -6,6 +6,10 @@
 
 ###
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31vpmsx3pozg6jpdsfljtl2gqpfa&unique={true|1|on|yes})
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
   <img width="15" />

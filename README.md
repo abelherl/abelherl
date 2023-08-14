@@ -2,11 +2,7 @@
 
 ###
 
-<h6 align="center">A developer who loves to code and design since a kiddo. Currently da(r)ting with Flutter 💙🤫</h6>
-
-###
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31vpmsx3pozg6jpdsfljtl2gqpfa&unique={true|1|on|yes})
+<h6 align="center">A developer who loves music, code, and design since kiddo. Currently da(r)ting with Flutter 💙🤫</h6>
 
 ###
 
@@ -54,6 +50,16 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/abelherl/abelherl/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abelherl/abelherl/output/snake.svg" alt="Snake animation" />
+</div>
+
+###
+
+<div align="center">
+  
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31vpmsx3pozg6jpdsfljtl2gqpfa&unique={true|1|on|yes})
+  
+</div>
 
 ###

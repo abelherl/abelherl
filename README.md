@@ -40,15 +40,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abelherl&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="stats graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=abelherl&locale=en&mode=weekly&theme=radical&hide_border=true&border_radius=5" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abelherl&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-<!--   <img src="https://raw.githubusercontent.com/abelherl/abelherl/output/snake.svg" alt="Snake animation" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abelherl&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph"  /> <br>
+  <h4>Profile Views</h4><img src="https://profile-counter.glitch.me/abelherl/count.svg?"/>
 </div>
 
 ###
@@ -61,7 +54,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/abelherl/count.svg?"  />
-</div>

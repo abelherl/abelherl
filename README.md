@@ -11,8 +11,9 @@
   <a href="https://github.com/abelherl/traffeye_sg_flutter">
     <img src="https://gh-card.dev/repos/abelherl/traffeye_sg_flutter.svg">
   </a>
-  <h2>Otsu! - Local Community App</h2>
 </div>
+  
+<h4 align="center">Otsu! - Local Community App</h2><br>
 
 ###
 

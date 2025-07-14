@@ -3,21 +3,28 @@
 ###
 
 <p align="center">A developer who loves music, code, and design since a little kid.</p>
-<p align="center">Dwelling Flutter for a while now. Currently learning Go. Planning to learn another secret tech...</p>
+<p align="center">Dwelling Flutter for a while now. Currently learning Go.</p>
 
 ###
 
-<h3 align="center">🤓 Technologies</h3>
+<h3 align="center">🤖 Technologies</h3>
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=dart,flutter,figma,go,postgres)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=dart,flutter)](https://skillicons.dev)
+  
+</div>
+
+<h3 align="center">🤓 Researching</h3>
+<div align="center">
+  
+  [![My Skills](https://skillicons.dev/icons?i=kotlin,swift,js,go,postgres,graphql,solidity)](https://skillicons.dev)
   
 </div>
 
 <h3 align="center">💻 Tools</h3>
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,postman,vercel)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,postman,vercel,figma,ps,ai)](https://skillicons.dev)
   
 </div>
 

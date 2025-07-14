@@ -2,7 +2,8 @@
 
 ###
 
-<h6 align="center">A developer who loves music, code, and design since a little kid. Dwelling Flutter for a while now, learning Go and another secret tech...</h6>
+<p align="center">A developer who loves music, code, and design since a little kid.</p>
+<p align="center">Dwelling Flutter for a while now. Currently learning Go. Planning to learn another secret tech...</p>
 
 ###
 
@@ -14,8 +15,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <h3 align="center">📊 Stats</h3>
 <div align="center">

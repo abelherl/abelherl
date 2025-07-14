@@ -10,7 +10,14 @@
 <h3 align="center">🤓 Technologies</h3>
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=dart,flutter,figma,go)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=dart,flutter,figma,go,postgres)](https://skillicons.dev)
+  
+</div>
+
+<h3 align="center">💻 Tools</h3>
+<div align="center">
+  
+  [![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,postman,vercel)](https://skillicons.dev)
   
 </div>
 

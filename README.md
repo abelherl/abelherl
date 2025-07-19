@@ -17,7 +17,7 @@
 <h3 align="center">🤓 Researching</h3>
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=kotlin,swift,js,go,postgres,graphql,solidity)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=kotlin,swift,js,ts,go,solidity,postgres,graphql)](https://skillicons.dev)
   
 </div>
 
